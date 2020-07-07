@@ -6,3 +6,8 @@ A game to find out the jumble word.
 
 ## Game
 Guess the word and get +10 points else -5 for each wrong answer.
+
+## tech Stacks used
+- HTML
+- CSS
+- JavaScript
