@@ -129,8 +129,20 @@ button.btn:hover,button.btn:focus,button.btn:active{
         padding-top: 20px;     
         color:white;        
     }
+    
     ::placeholder{
         color: transparent;
         text-align: center;
+    }
+     header{
+        height: 20vh;
+    }
+
+    section{
+        height:72vh;
+    }
+
+    input{
+        width:80%;
     }
   }
