@@ -145,4 +145,8 @@ button.btn:hover,button.btn:focus,button.btn:active{
     input{
         width:80%;
     }
+    
+    .gameArea{
+        height: 600px;
+    }
   }
